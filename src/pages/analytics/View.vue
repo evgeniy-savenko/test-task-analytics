@@ -65,7 +65,6 @@ const fetchMockData = (filter: FilterEnum) => {
   apiProvider
     .get(filter)
     .then((data) => {
-      console.log(`Полученные данные:`, data);
       analytics.value = data;
       isDataLoading.value = false
     })

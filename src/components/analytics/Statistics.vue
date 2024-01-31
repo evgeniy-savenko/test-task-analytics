@@ -85,6 +85,7 @@ withDefaults(
   padding: 1.5rem 2rem;
   border-radius: 0.625rem;
   flex-direction: column;
+  width: 800px;
 
   &__ratings {
     display: flex;
