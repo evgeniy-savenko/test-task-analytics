@@ -28,8 +28,8 @@
                 <span>Всплывающая подсказка про активность</span>
               </NPopover>
             </th>
-            <th class="statistics-table-th-sm" colspan="2">Рейтинг и отзывы</th>
-            <th class="statistics-table-th-md" rowspan="2">
+            <th class="statistics-table-th-sm text-nowrap" colspan="2">Рейтинг и отзывы</th>
+            <th class="statistics-table-th-md text-nowrap" rowspan="2">
               Прирост отзывов <br />
               и рейтинга
             </th>

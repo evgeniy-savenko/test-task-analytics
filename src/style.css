@@ -13,6 +13,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.text-nowrap {
+  text-wrap: nowrap;
+}
+
 .statistics-table-th-xs {
   width: 5%;
 }
@@ -42,6 +46,7 @@ td {
 
 td {
   vertical-align: top;
+  padding-right: 0.325rem;
 }
 
 tr {
