@@ -12,8 +12,6 @@ import View from './pages/analytics/View.vue';
 <style scoped lang="scss">
 .layout {
   background-color: white; 
-  width: 100vh;
-  height: 100vh;
   border-radius: 2%;
 }
 </style>
